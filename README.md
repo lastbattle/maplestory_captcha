@@ -1,7 +1,3 @@
----
-license: mpl-2.0
----
-
 A huge collection of English [MapleStory](https://maplestory.com/)'s captcha text in jpg that I have collected over the years (dont as me how I got it). I simply do not need them anymore.
 Pre-Big Bang MapleStory up till version 190 when they have switched to mostly using Runes (Up, Down, Left, Right arrow keys). 
 Modern MapleStory still uses them occasionally. 
